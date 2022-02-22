@@ -12,6 +12,7 @@
 Pronouns: He/Him
 
 I'm a linguistics enthusiast currently working on my Computer Science undergrad at the University Of Maryland. 
+<br>
 
 Ask me about mechanical keyboards, QMK, and Natural Language Processing!
 
@@ -26,8 +27,11 @@ Ask me about mechanical keyboards, QMK, and Natural Language Processing!
     <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" title="Vim" alt="Vim" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/ocaml/ocaml-original.svg" title="Ocaml" alt="Ocaml" width="40" height="40"/>&nbsp;
 </div>
+<br>
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HansTheIV)](https://github.com/anuraghazra/github-readme-stats)
+
+***
 
 
 
